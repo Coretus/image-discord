@@ -1,0 +1,22 @@
+{
+  "name": "images-discord",
+  "version": "1.0.2",
+  "description": "una api de imagenes para discord",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "images",
+    "Discord-Bot"
+  ],
+  "author": "Coretus",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "fs": "^0.0.1-security",
+    "gifencoder": "^2.0.1",
+    "jimp": "^0.16.1",
+    "path": "^0.12.7"
+  }
+}
